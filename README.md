@@ -12,8 +12,6 @@ The system typically provides risk prediction for the following diseases (Inferr
 
 1.  **Diabetes**
 2.  **Heart Disease**
-3.  **Parkinson's Disease**
-4.  *(Add any other diseases included in your models)*
 
 ---
 
